@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695259552 source:/home/hazel/Projects/Learn-CPP/0-Introduction_Getting-Started/HelloWorld/main.cpp
+	<iostream>
+	<limits>
+
